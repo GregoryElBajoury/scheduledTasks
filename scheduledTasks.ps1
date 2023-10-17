@@ -1,3 +1,4 @@
+# ---- ---- ---- ---- ----AIR FORCE TASKS---- ---- ---- ---- ---- 
 # Ce script récupère et exporte des informations détaillées sur toutes les tâches planifiées d'une machine vers un fichier CSV.
 # Il identifie également si une tâche planifiée est configurée pour exécuter un script spécifique (ps1, bat, cmd, vbs).
 
