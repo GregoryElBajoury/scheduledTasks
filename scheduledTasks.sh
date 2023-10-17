@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# A TESTER
 # Définit le répertoire et le fichier de sortie
 OUTPUT_DIRECTORY="$HOME"
 OUTPUT_FILE="${OUTPUT_DIRECTORY}/tasks_and_processes_$(hostname).txt"
