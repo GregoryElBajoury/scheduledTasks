@@ -1,5 +1,5 @@
 # Liste des noms d'hôte ou des adresses IP des machines distantes
-$servers = @('IA5199N', 'IA3199N') # Remplacez par vos noms de serveur
+$servers = @('NomServer1', 'NomServer2') # Remplacez par vos noms de serveur
 
 # Script à exécuter sur chaque machine distante
 $scriptBlock = {
