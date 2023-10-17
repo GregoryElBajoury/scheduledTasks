@@ -11,7 +11,7 @@ for SERVER in "${SERVERS[@]}"; do
 
     # Exécute le script à distance et sauvegarde les résultats localement
     ssh "$SERVER" bash -c "'
-        # Fonction pour récupérer les tâches cron
+         Fonction pour récupérer les tâches cron
         get_cron_tasks() {
             echo \"### Tâches Cron pour l'utilisateur \$USER ###\"
             crontab -l 2>/dev/null
